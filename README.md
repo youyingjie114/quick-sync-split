@@ -1,2 +1,2 @@
-# quick-sync-split-
+# quick-sync-split
 A github path project
